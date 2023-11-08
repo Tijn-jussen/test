@@ -1228,7 +1228,7 @@ a:hover, .abboneer-knop:hover, .artikel-vak:hover, .foto-box-normal-size:hover, 
     margin-top: 19px; 
 
 
-    background-image: url("../asset/twitter.png");
+    background-image: url(../asset/twitter.png);
     background-size: cover;
 
  
